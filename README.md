@@ -14,7 +14,10 @@ Cypress can be install by doing the following steps:
 
 To run this code the following needs to be done:
 1. From your terminal: npx cypress open. This will open the Cypress Dashboard
-2. You can also run `npx cypress run --record --key 10227407-dbc2-4e5d-b145-afccd4506bad` from the command line to run the code and get a report of the execution
+
+![image](https://user-images.githubusercontent.com/38430731/155043705-52531d49-6ae3-488a-86c3-998caf763f96.png)
+
+3. You can also run `npx cypress run --record --key 10227407-dbc2-4e5d-b145-afccd4506bad` from the command line to run the code and get a report of the execution
 
 
 The report will be showing my Dashbaord: https://dashboard.cypress.io/projects/37mtnk/runs/1/specs
